@@ -5,8 +5,6 @@ How to Build REST API Using PHP
 
 <img src="http://demo.techwebbies.com/restapi/1.png">
 
-<img src="http://demo.techwebbies.com/restapi/2.png">
-
 <img src="http://demo.techwebbies.com/restapi/3.png">
 
 <img src="http://demo.techwebbies.com/restapi/4.png">
